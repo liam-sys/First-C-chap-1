@@ -11,7 +11,7 @@ Chap 1 summary (Intro to Programming)
 4. Keywords in C#:
    I learned about the keywords in C# which are reserved words that have a special meaning in the language. I also learned that keywords cannot be used as identifiers like variable names and method names in C#.
 5. What happens to a C# program:
-   I learned about what i needed to program in C# which is a text editor and the .NET framework. I learned about the process of compiling and executing a C# source code done by the .NET framework and the source code is written with the text editor. The C# code is first compiled into an intermediate language (IL) by the C# compiler, and then the IL is executed by the Common Language Runtime (CLR) which is part of the .NET framework.
+   I learned about what i needed to program in C# which is a text editor and the .NET framework. I learned about the process of compiling and executing a C# source code done by the .NET framework and the source code is written with the text editor. The C# code is first compiled into an intermediate language (IL) by the C# compiler, and then the IL is executed by the Common Language Runtime (CLR) which is part of the ls.NET framework.
 6. The Visual Studio IDE:
    I learned about the Visual Studio IDE which is a software application that provides a comprehensive environment for developing C# programs. I learned about the features of Visual Studio such as the code editor, debugger, and project management tools. I also learned how to create a new C# project in Visual Studio and how to run it. I also learned the short cuts to compile(F6), run(Ctrl + F5) and debug(F5) a C# program in Visual Studio.
 7. The Console class:
